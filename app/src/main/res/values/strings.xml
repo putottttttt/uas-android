@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SewaGadget</string>
+    <string name="simpan_gadget">Simpan Gadget</string>
+    <string name="kategori">Kategori</string>
+    <string name="nama_gadget">Nama Gadget</string>
+    <string name="merek_tipe">Merek / Tipe</string>
+    <string name="spesifikasi_singkat">Spesifikasi Singkat</string>
+    <string name="harga_sewa_per_hari_rp">Harga Sewa per Hari (Rp)</string>
+    <string name="tambah_gadget_baru">Tambah Gadget Baru</string>
+    <string name="sewa_gadget">Sewa Gadget</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun_registrasi">Belum punya akun? Registrasi</string>
+    <string name="buat_akun_baru">Buat Akun Baru</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="tanggal_mulai_sewa">Tanggal Mulai Sewa</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="sewa_sekarang">Sewa Sekarang</string>
+    <string name="tanggal_selesai_sewa">Tanggal Selesai Sewa</string>
+    <string name="total_biaya">Total Biaya:</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+</resources>
